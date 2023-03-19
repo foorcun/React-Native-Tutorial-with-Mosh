@@ -1,9 +1,14 @@
 [YouTube linki](https://youtube.com/watch?v=0-S5a0eXPoc&feature=shares)
 
 #  create project with expo
-expo init ProjectName
-```.sh
+
+~~expo init ProjectName
 expo init DoneWithIt
+~~
+
+npx create-expo-app my-app && cd my-app
+```.sh
+npx create-expo-app DoneWithIt && cd DoneWithIt
 ```
 
 ## choose managed workflow

@@ -1,3 +1,5 @@
+[docs for view](https://reactnative.dev/docs/view)
+
 \<View\> components is like a div in html.
 
 

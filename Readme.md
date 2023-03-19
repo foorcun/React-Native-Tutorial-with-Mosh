@@ -1,7 +1,7 @@
 [YouTube linki](https://youtube.com/watch?v=0-S5a0eXPoc&feature=shares)
 
 #  create project with expo
-expo init <project-name>
+expo init ProjectName
 ```.sh
 expo init DoneWithIt
 ```

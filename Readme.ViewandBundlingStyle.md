@@ -62,3 +62,4 @@ const styles = StyleSheet.create({
   },
 });
 ```
+not: Object in the rigth overrides the property. (in this case containerStyle overides backgroundColor of styles.container )

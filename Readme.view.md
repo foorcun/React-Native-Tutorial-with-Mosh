@@ -18,3 +18,13 @@ const styles = StyleSheet.create({
   },
 });
 ```
+
+# one liner (without bundling)
+## version 1
+```.sh
+    <View flex={1} backgroundColor={'#fff'} alignItems={'center'} justifyContent={'center'} >
+```
+## version 2
+```.sh
+    <View flex= {1} backgroundColor='#fff' alignItems='center' justifyContent='center' >
+```

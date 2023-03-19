@@ -11,8 +11,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    alignItems: 'center', // horizontal center
+    justifyContent: 'center', // vertiacal center
   },
 });
 ```

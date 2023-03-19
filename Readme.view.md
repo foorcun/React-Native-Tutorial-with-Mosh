@@ -5,6 +5,8 @@
 
 # Bundling component and style
 
+StyleSheet class kullanmak tavsiye ediliyor. Cunku typo larda validation aradigi icin ortaya cikartiyor.
+
 ```.sh
 <View style={styles.container}>
 ```

@@ -3,6 +3,7 @@
 #  create project with expo
 
 ~~expo init ProjectName~~
+
 ~~expo init DoneWithIt~~
 
 

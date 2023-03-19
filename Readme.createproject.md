@@ -31,7 +31,7 @@ Then open in chrome, localhost:19000 (it can be different, look for terminal)
 
 ## To open developer menu
 Press on, while using emulator 
-Ctrl+d
+Ctrl + m (on windows)
 
 ## open it in VS Code to develop
 

@@ -21,10 +21,13 @@ npx expo install react-dom react-native-web @expo/webpack-config
 ```
 
 ### first test start
+~~npm start~~
 
 ```.sh
 npx expo start
 ```
+
+Then open in chrome, localhost:19002
 
 ## open it in VS Code
 
@@ -32,11 +35,7 @@ npx expo start
 code .
 ```
 
-## first test
-```.sh
-npm start
-```
-Then open in chrome, localhost:19002
+
 
 
 ## To open developer menu

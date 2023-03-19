@@ -42,3 +42,23 @@ const styles = StyleSheet.create({
 ```.sh
 const containerStyle = {backgroundColor : '#fff'}
 ```
+
+
+# array of styles
+
+```.sh
+    <View style={[styles.container,  containerStyle]}>
+```
+
+```.sh
+const containerStyle = {backgroundColor : 'orange'}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
+```

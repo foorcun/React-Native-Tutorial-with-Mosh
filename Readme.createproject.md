@@ -10,9 +10,11 @@ expo init DoneWithIt
 
 Choose "Blank"
 
-# open it in VS Code
+## open it in VS Code
 
+```.sh
 cd DoneWithIt && code .
+```
 
 ## first test
 ```.sh

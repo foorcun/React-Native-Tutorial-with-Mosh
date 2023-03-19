@@ -6,20 +6,30 @@
 
 ~~expo init DoneWithIt~~
 
-
+[expo doc]([https://youtube.com/watch?v=0-S5a0eXPoc&feature=shares](https://docs.expo.dev/tutorial/create-your-first-app/#install-dependencies))
 npx create-expo-app my-app && cd my-app
 ```.sh
 npx create-expo-app DoneWithIt && cd DoneWithIt
 ```
 
-## choose managed workflow
 
-Choose "Blank"
+### Install dependencies
+To run the project on the web, we need to install the following dependencies that will help to run the project on the web
+
+```.sh
+npx expo install react-dom react-native-web @expo/webpack-config
+```
+
+### first test start
+
+```.sh
+npx expo start
+```
 
 ## open it in VS Code
 
 ```.sh
-cd DoneWithIt && code .
+code .
 ```
 
 ## first test

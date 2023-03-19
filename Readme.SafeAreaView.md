@@ -1,4 +1,4 @@
-![The problem]([https://github.com/foorcun/React-Native-Tutorial-with-Mosh/blob/master/images/safe%20area%20problem.PNG](https://github.com/foorcun/React-Native-Tutorial-with-Mosh/blob/master/images/safe%20area%20problem.PNG))
+![The problem](https://github.com/foorcun/React-Native-Tutorial-with-Mosh/blob/master/images/safe%20area%20problem.PNG)
 
 
 # the solution

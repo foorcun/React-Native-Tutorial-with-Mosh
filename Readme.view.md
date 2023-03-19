@@ -32,3 +32,11 @@ const styles = StyleSheet.create({
 ```.sh
     <View style={{ backgroundColor: "#fff" }}>
 ```
+
+## version 4
+```.sh
+    <View style={ containerStyle }>
+```
+```.sh
+const containerStyle = {backgroundColor : '#fff'}
+```

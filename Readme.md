@@ -2,9 +2,9 @@
 
 #  create project with expo
 expo init <project-name>
-'''.sh
+```.sh
 expo init DoneWithIt
-'''
+```
 
 ## choose managed workflow
 
@@ -15,9 +15,9 @@ Choose "Blank"
 cd DoneWithIt && code .
 
 ## first test
-'''.sh
+```.sh
 npm start
-'''
+```
 Then open in chrome, localhost:19002
 
 

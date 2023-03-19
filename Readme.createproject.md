@@ -2,9 +2,9 @@
 
 #  create project with expo
 
-~~expo init ProjectName
+~~expo init ProjectName~~
 expo init DoneWithIt
-~~
+
 
 npx create-expo-app my-app && cd my-app
 ```.sh

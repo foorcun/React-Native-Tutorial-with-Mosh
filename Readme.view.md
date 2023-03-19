@@ -28,3 +28,7 @@ const styles = StyleSheet.create({
 ```.sh
     <View flex= {1} backgroundColor='#fff' alignItems='center' justifyContent='center' >
 ```
+## version 3 (parameters as javascript object)
+```.sh
+    <View style={{ backgroundColor: "#fff" }}>
+```

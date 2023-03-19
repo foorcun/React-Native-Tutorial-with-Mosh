@@ -7,3 +7,12 @@
 ```.sh
 import { StyleSheet, Text, View , SafeAreaView} from 'react-native';
 ```
+
+## change View into :
+
+```.sh
+    <SafeAreaView style={styles.container}>
+      <Text>Hello exp...</Text>
+      <StatusBar style="auto" />
+    </SafeAreaView>
+```
